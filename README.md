@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Leonar
+Software Engineer passionate, problem solver, team behavior and collaborative personality.
 
-<!--
-**leonarpv/leonarpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Stack:
+❤️ React.js | React Native | Redux | Hooks | ContextAPI | Mobx.
 
-Here are some ideas to get you started:
+🍰 NodeJs | Express.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💪 Angular - Typescript.
+
+💪 AngularJs.
+
+💾 MySQL | PostgreSQL.
+
+🔰 GraphQL.
+
+🔰 Apollo.
+
+🔰 Gatsby.js.
+
+🔰 Storybook
+
