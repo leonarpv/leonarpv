@@ -2,21 +2,9 @@
 Software Engineer passionate, problem solver, team behavior and collaborative personality.
 
 Technical Stack:
-❤️ React.js | React Native | Redux | Hooks | ContextAPI | Mobx.
+❤️ Javascript -  Typescript : React.js | React Native | Redux | Hooks | ContextAPI | Mobx | NodeJs | Express | Angular | AngularJs
 
-🍰 NodeJs | Express.
+💾 Databases: MySQL | PostgreSQL.
 
-💪 Angular - Typescript.
-
-💪 AngularJs.
-
-💾 MySQL | PostgreSQL.
-
-🔰 GraphQL.
-
-🔰 Apollo.
-
-🔰 Gatsby.js.
-
-🔰 Storybook
+🔰 Begginer on GraphQL | Apollo | Gatsby.js. | Storybook
 
