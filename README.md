@@ -7,5 +7,5 @@ Technical Stack:
 
 💾 Databases: MySQL | PostgreSQL.
 
-🔰 Begginer on GraphQL | Apollo | Gatsby.js. | Storybook
+🔰 Beginner on GraphQL | Apollo | Gatsby.js. | Storybook
 
